@@ -1,6 +1,6 @@
 {
   "name": "appgame",
-  "homepage": "https://github.com/powellahaneku/robofriends/public/index",
+  "homepage": "https://github.com/powellahaneku/robofriends",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
